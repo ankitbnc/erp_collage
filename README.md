@@ -10,4 +10,4 @@ Authors - Aakash Sirohi , Ankur Verma
 
 just a focus on 3 modules provided by client.
 
-Schemma could be found in the Excel sheet.
+Schema could be found in the Excel sheet.
