@@ -1,5 +1,5 @@
-# erp
-erp system in university
+# ERP(ENTERPRISE RESOURCE PLANNING)
+ERP system in university
 
 
 this is a simple tkinter based python project used to implement 
