@@ -8,6 +8,6 @@ MYSql or SqlLite3.
 
 Authors - Aakash Sirohi , Ankur Verma
 
-just a focus on 3 modules provided by client.
+just a focus on few modules provided by client.
 
 Schema could be found in the Excel sheet.
